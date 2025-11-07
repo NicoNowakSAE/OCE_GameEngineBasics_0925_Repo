@@ -1,0 +1,2 @@
+- Frucht fällt komisch und langsam
+- zeig Coroutine anhand fruit spawner 
